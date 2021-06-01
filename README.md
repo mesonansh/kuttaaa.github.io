@@ -1,2 +1,5 @@
-# kuttaaa.github.io
-![20d5c1286d5408e29d66f8004c69034c_1](https://user-images.githubusercontent.com/85163273/120362435-b3591500-c328-11eb-9fe5-dd1606023156.jpg)
+
+[fraudh.txt](https://github.com/mesonansh/kuttaaa.github.io/files/6577889/fraudh.txt)
+[JIO.txt](https://github.com/mesonansh/kuttaaa.github.io/files/6577890/JIO.txt)
+[VODAFONE.txt](https://github.com/mesonansh/kuttaaa.github.io/files/6577891/VODAFONE.txt)
+[AIRTE.txt](https://github.com/mesonansh/kuttaaa.github.io/files/6577893/AIRTE.txt)
